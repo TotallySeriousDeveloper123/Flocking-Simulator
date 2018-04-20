@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ObstacleController">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAACACAAAAAAAAAAQQAAAAAEAAAACAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\ObstacleController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FPS">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAABIAgAAAAAAAAAAAAABEAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\FPS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstructionScene">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\InstructionScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAACAAAAABAAAAAAACAAAAAAAAAAAgAwAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Settings">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAACAAAwIABAMAAAAAQAAIDIABCAAIAVAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimManager">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAEACGCAGAAAAAEAAAAAAAEgAAiAAABBMAAAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\SimManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimUI">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEgAAACAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SimUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitBlock">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAACAAAAAABAAAAAAAAAACAAAAAABAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\UnitBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitBlue">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAACABAKAAmAIAAUAAAAAQAAgAICAA=</HashCode>
+      <FileName>Assets\Scripts\UnitBlue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitGreen">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAACABAKAAmAIAAEAAAAAQAAgAICAA=</HashCode>
+      <FileName>Assets\Scripts\UnitGreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitRed">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAACABAKAAmAIAAUAAAAAQAAgAICAA=</HashCode>
+      <FileName>Assets\Scripts\UnitRed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
